@@ -19,5 +19,4 @@
 ![Goal](images/投影片12.JPG)
 
 
-[[ 開始學習　Start to Learn ]](chapter1.md#物件偵測應用在板金料件智慧化電腦視覺外觀瑕疵檢測)
-[[ 下一章 ]](chapter2.md#物件偵測應用在板金料件智慧化電腦視覺外觀瑕疵檢測)
+[[ 下一章 ]](chapter2.md#YOLOv4 特色)
