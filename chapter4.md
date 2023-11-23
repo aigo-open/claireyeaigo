@@ -27,3 +27,6 @@
 ![Goal](images/投影片35.JPG)
 
 ![Goal](images/投影片36.JPG)
+
+
+[[ 下一章 ]](chapter5.md#模型部屬)
