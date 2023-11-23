@@ -19,4 +19,4 @@
 ![Goal](images/投影片12.JPG)
 
 
-[[ 下一章 ]](chapter2.md#YOLOv4 特色)
+[[ 下一章 ]](chapter2.md# YOLOv4 特色)
