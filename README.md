@@ -11,3 +11,5 @@
 
 ## 程式碼教學
 點此[連結](https://github.com/advcloud/colabtest/blob/main/claireyeaigo.ipynb)
+
+[[ 開始學習　Start to Learn ]](chapter1.md#物件偵測應用在板金料件智慧化電腦視覺外觀瑕疵檢測)
