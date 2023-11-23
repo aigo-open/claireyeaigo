@@ -8,3 +8,6 @@
 5. 模型部屬
 6. 使用 YOLOv4 時常見的狀況
 7. 結語
+
+## 程式碼教學
+點此[連結](https://github.com/advcloud/colabtest/blob/main/claireyeaigo.ipynb)
